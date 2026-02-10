@@ -1,1 +1,1 @@
-Counter Strike-2 Appid: 730
+cs2=730
